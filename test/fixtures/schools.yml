@@ -1,0 +1,61 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codigo_dane: 1
+  nombre_establecimiento_educativo: MyText
+  estado: MyText
+  tipo: MyText
+  direccion: MyText
+  barrio: MyText
+  telefono: MyText
+  email: MyText
+  pagina_web: MyText
+  calendario: MyText
+  genero: MyText
+  especialidad: MyText
+  enfasis: MyText
+  rector: MyText
+  bilingue: MyText
+  estrato: MyText
+  localidad: MyText
+  coord_x: MyText
+  coord_y: MyText
+  sector: MyText
+  clasificacion: MyText
+  indice_matematica: MyText
+  indice_ciencias_naturales: MyText
+  indice_sociales_ciudadanas: MyText
+  indice_lectura_critica: MyText
+  indice_ingles: MyText
+  indice_total: MyText
+  puesto: 1
+
+two:
+  codigo_dane: 1
+  nombre_establecimiento_educativo: MyText
+  estado: MyText
+  tipo: MyText
+  direccion: MyText
+  barrio: MyText
+  telefono: MyText
+  email: MyText
+  pagina_web: MyText
+  calendario: MyText
+  genero: MyText
+  especialidad: MyText
+  enfasis: MyText
+  rector: MyText
+  bilingue: MyText
+  estrato: MyText
+  localidad: MyText
+  coord_x: MyText
+  coord_y: MyText
+  sector: MyText
+  clasificacion: MyText
+  indice_matematica: MyText
+  indice_ciencias_naturales: MyText
+  indice_sociales_ciudadanas: MyText
+  indice_lectura_critica: MyText
+  indice_ingles: MyText
+  indice_total: MyText
+  puesto: 1

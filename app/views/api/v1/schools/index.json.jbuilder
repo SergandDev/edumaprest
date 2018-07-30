@@ -1,0 +1,29 @@
+json.array! @schools do |school|
+    json.nombre_establecimiento_educativo school.nombre_establecimiento_educativo
+    json.estado school.estado
+    json.tipo school.tipo
+    json.direccion school.direccion
+    json.barrio school.barrio
+    json.telefono school.telefono
+    json.email school.email
+    json.pagina_web school.pagina_web
+    json.calendario school.calendario
+    json.genero school.genero
+    json.especialidad school.especialidad
+    json.enfasis school.enfasis
+    json.rector school.rector
+    json.bilingue school.bilingue
+    json.estrato school.estrato
+    json.localidad school.localidad
+    json.coord_x school.coord_x
+    json.coord_y school.coord_y
+    json.sector school.sector
+    json.clasificacion school.clasificacion
+    json.indice_matematica school.indice_matematica
+    json.indice_ciencias_naturales school.indice_ciencias_naturales
+    json.indice_sociales_ciudadanas school.indice_sociales_ciudadanas
+    json.indice_lectura_critica school.indice_lectura_critica
+    json.indice_ingles school.indice_ingles
+    json.indice_total school.indice_total
+    json.puesto school.puesto
+end
